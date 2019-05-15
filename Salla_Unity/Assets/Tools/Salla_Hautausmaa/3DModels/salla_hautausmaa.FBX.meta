@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 6f35ef20b837d5b4791bd49b46d36c91
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: altar
+    100002: bench01
+    100004: bench02
+    100006: bench03
+    100008: bench04
+    100010: bench06
+    100012: bench07
+    100014: corner_block
+    100016: corner_block001
+    100018: corner_block002
+    100020: corner_block003
+    100022: fence01
+    100024: fence02
+    100026: fence03
+    100028: gate
+    100030: gate02
+    100032: ground
+    100034: Main_Fence
+    100036: pavement
+    100038: Plane006
+    100040: Road
+    100042: //RootNode
+    100044: small_cross
+    100046: small_cross001
+    100048: small_cross002
+    100050: small_cross003
+    100052: tombstone
+    100054: tombstone2
+    400000: altar
+    400002: bench01
+    400004: bench02
+    400006: bench03
+    400008: bench04
+    400010: bench06
+    400012: bench07
+    400014: corner_block
+    400016: corner_block001
+    400018: corner_block002
+    400020: corner_block003
+    400022: fence01
+    400024: fence02
+    400026: fence03
+    400028: gate
+    400030: gate02
+    400032: ground
+    400034: Main_Fence
+    400036: pavement
+    400038: Plane006
+    400040: Road
+    400042: //RootNode
+    400044: small_cross
+    400046: small_cross001
+    400048: small_cross002
+    400050: small_cross003
+    400052: tombstone
+    400054: tombstone2
+    2100000: No Name
+    2100002: 'Material #75'
+    2100004: 'Material #74'
+    2300000: altar
+    2300002: bench01
+    2300004: bench02
+    2300006: bench03
+    2300008: bench04
+    2300010: bench06
+    2300012: bench07
+    2300014: corner_block
+    2300016: corner_block001
+    2300018: corner_block002
+    2300020: corner_block003
+    2300022: fence01
+    2300024: fence02
+    2300026: fence03
+    2300028: gate
+    2300030: gate02
+    2300032: ground
+    2300034: Main_Fence
+    2300036: pavement
+    2300038: Plane006
+    2300040: Road
+    2300042: small_cross
+    2300044: small_cross001
+    2300046: small_cross002
+    2300048: small_cross003
+    2300050: tombstone
+    2300052: tombstone2
+    3300000: altar
+    3300002: bench01
+    3300004: bench02
+    3300006: bench03
+    3300008: bench04
+    3300010: bench06
+    3300012: bench07
+    3300014: corner_block
+    3300016: corner_block001
+    3300018: corner_block002
+    3300020: corner_block003
+    3300022: fence01
+    3300024: fence02
+    3300026: fence03
+    3300028: gate
+    3300030: gate02
+    3300032: ground
+    3300034: Main_Fence
+    3300036: pavement
+    3300038: Plane006
+    3300040: Road
+    3300042: small_cross
+    3300044: small_cross001
+    3300046: small_cross002
+    3300048: small_cross003
+    3300050: tombstone
+    3300052: tombstone2
+    4300000: gate
+    4300002: tombstone
+    4300004: tombstone2
+    4300006: gate02
+    4300008: Plane006
+    4300010: pavement
+    4300012: fence03
+    4300014: fence02
+    4300016: fence01
+    4300018: altar
+    4300020: Road
+    4300022: Main_Fence
+    4300024: ground
+    4300026: small_cross
+    4300028: small_cross001
+    4300030: small_cross002
+    4300032: small_cross003
+    4300034: bench04
+    4300036: bench06
+    4300038: bench03
+    4300040: bench02
+    4300042: bench01
+    4300044: bench07
+    4300046: corner_block
+    4300048: corner_block001
+    4300050: corner_block002
+    4300052: corner_block003
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

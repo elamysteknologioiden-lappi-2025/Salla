@@ -1,11 +1,13 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Oo]culus/
-[Tt]ools/Salla_Hautausmaa/3DModels/Trees/
-Assets/AssetStoreTools*
+Salla_Unity/[Ll]ibrary/
+Salla_Unity/[Tt]emp/
+Salla_Unity/[Oo]bj/
+Salla_Unity/[Bb]uild/
+Salla_Unity/[Bb]uilds/
+Salla_Unity/[Oo]culus/
+Salla_Unity/Assets/[Rr]esources/
+Salla_Unity/Assets/[Tt]ools/Salla_Hautausmaa/3DModels/Trees/
+Salla_Unity/Assets/[Tt]ools/Salla_Hautausmaa/3DModels/Grass/
+Salla_Unity/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
